@@ -17,6 +17,7 @@ I use this second brain as a source of learning about the nutritional needs that
 
 ## Collection
 
+- [[Vitamin A/README|Vitamin A]]
 - [[Vitamin B1/README|Vitamin B1]]
 - [[VItamin B3/README|Vitamin B3]]
 - [[Vitamin B6/README|Vitamin B6]]
