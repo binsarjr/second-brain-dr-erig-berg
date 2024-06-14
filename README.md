@@ -1,3 +1,5 @@
+# Dr. Eric Berg DC
+
 a collection of thoughts Dr. Eric Berg DC packaged in text form.
 
 
