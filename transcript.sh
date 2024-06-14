@@ -10,6 +10,14 @@ fi
 youtube_link="$1"
 filepath="$2"
 
+# Mendapatkan direktori dari filepath
+directory=$(dirname "$filepath")
+
+# Membuat direktori jika belum ada
+if [ ! -d "$directory" ]; then
+	mkdir -p "$directory"
+fi
+
 # Menjalankan perintah yang diminta
 echo $youtube_link >"$filepath"
 yt --transcript "$youtube_link" | fabric --model "gpt-4o" --pattern dr_berg >>"$filepath"
