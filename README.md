@@ -18,4 +18,5 @@ I use this second brain as a source of learning about the nutritional needs that
 ## Collection
 
 - [[VItamin B3/README|Vitamin B3]]
+- [[Vitamin B6/README|Vitamin B6]]
 - 
