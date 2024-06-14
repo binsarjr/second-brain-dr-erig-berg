@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "f27d432034bb4a5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e19988809cd72b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dbe2a51fd9e8cbda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VItamin B3/Strange & Weird Niacin (B3) Deficiency Signs and Symptoms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9edfe037bb76a6bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92cd8bcc19f06d49",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef2864d5a610daf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "86e5e07c70845c70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f40b90d11849d832",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80a2d31d9f421b59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e879e83e303a00ed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58fef44ae06db2a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2484b5ed999ec712",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6816b6cba30bc9db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "VItamin B3/Strange & Weird Niacin (B3) Deficiency Signs and Symptoms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3799e950b068d3d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "VItamin B3/Strange & Weird Niacin (B3) Deficiency Signs and Symptoms.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6510021e66bf5a8c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c6a459a7ef50718",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "VItamin B3/Strange & Weird Niacin (B3) Deficiency Signs and Symptoms.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dbe2a51fd9e8cbda",
+  "lastOpenFiles": [
+    "VItamin B3/README.md",
+    "VItamin B3/Strange & Weird Niacin (B3) Deficiency Signs and Symptoms.md",
+    "README.md",
+    "VItamin B3"
+  ]
+}
