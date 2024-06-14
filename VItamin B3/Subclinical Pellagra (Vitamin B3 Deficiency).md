@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=oVXUdhH7z0M&list=PLVLP-bhbxACbj8LAV4BPsJdZwAIo-aMYU&index=3
+
 # SUMMARY
 The discussion focuses on subclinical pellagra, a condition caused by a deficiency in vitamin B3 (niacin). The speaker explains the symptoms, causes, and potential treatments for this deficiency. They also highlight the importance of niacin in various bodily functions and recommend ways to ensure adequate intake.
 

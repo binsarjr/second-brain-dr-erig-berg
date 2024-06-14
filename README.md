@@ -1,6 +1,6 @@
 # Dr. Eric Berg DC
 
-a collection of thoughts [Dr. Eric Berg DC](https://www.youtube.com/@Drberg) packaged in text form.
+a collection of thoughts [Dr. Eric Berg DC](https://www.youtube.com/@Drberg) packaged in text form. I use [this](./system.md) system prompt if you want to try it. open with obsidian for better view
 
 
 ## Tools
