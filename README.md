@@ -3,7 +3,9 @@
 a collection of thoughts Dr. Eric Berg DC packaged in text form.
 
 
-using [fabric](https://github.com/danielmiessler/fabric) tools
+## Tools
+- [fabric](https://github.com/danielmiessler/fabric) for extraction and summarize youtube video
+- [obsidian](https://obsidian.md/) 
 
 
 ## Idea
