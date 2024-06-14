@@ -22,5 +22,6 @@ I use this second brain as a source of learning about the nutritional needs that
 - [[VItamin B3/README|Vitamin B3]]
 - [[Vitamin B6/README|Vitamin B6]]
 - [[Vitamin B12/README|Vitamin B12]]
+- [[Vitamin D/README|Vitamin D]]
 - [[Vitamin K2/README|Vitamin K2]]
 - 
