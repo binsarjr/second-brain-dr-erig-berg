@@ -6,4 +6,4 @@ playlist: https://www.youtube.com/playlist?list=PLVLP-bhbxACbVCM6xutjMK0SqYQqLeJ
 4. [[What is Vitamin B6? Deficiencies, Symptoms, and Foods]]
 5. [[Why Vitamin B6 Helps Carpal Tunnel Syndrome]]
 6. [[Vitamin B6 Deficiency in Women]]
-7. [[The 3 Vitamin Deficiencies in Sciatica and Carpal Tunnel Syndrome]]
+7. [[Vitamin B6/The 3 Vitamin Deficiencies in Sciatica and Carpal Tunnel Syndrome]]
